@@ -1,7 +1,7 @@
 # LED_Flasher_Board
 
 入力電圧3V
-
+Q1とQ2は裏返してハンダ付けでしてください
 | 番号 | 部品 | URL |
 |---|---|---|
 |R1-R4|390Ω|https://akizukidenshi.com/catalog/g/g125391/|
